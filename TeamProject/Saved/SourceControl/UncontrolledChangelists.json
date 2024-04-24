@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject/Content/ThirdPerson/Maps/EndlessLevel.umap",
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_Floor.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/MyProject/Content/NewMap.umap",
+				"C:/Users/annakurova/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Maps/EndlessLevel.umap",
+				"C:/Users/annakurova/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
