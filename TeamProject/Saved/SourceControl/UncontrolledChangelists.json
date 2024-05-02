@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/sepideghorbanian/Documents/GitHub/TeamProject/TeamProject/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Users/sepideghorbanian/Documents/GitHub/TeamProject/TeamProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/sepideghorbanian/Documents/GitHub/TeamProject/TeamProject/Content/ThirdPerson/Blueprints/BP_HealBox.uasset",
 				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/ThirdPerson/Blueprints/BP_Floor.uasset",
 				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/ThirdPerson/Blueprints/BP_Obstacle.uasset",
 				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
