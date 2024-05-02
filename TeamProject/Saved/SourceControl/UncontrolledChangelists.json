@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/ThirdPerson/Blueprints/BP_Floor.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/ThirdPerson/Blueprints/BP_Obstacle.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/ThirdPerson/Maps/EndlessLevel.umap",
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/LevelPrototyping/Materials/M_Light.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject - Copy/Content/LevelPrototyping/Textures/light_texture.uasset",
+				"C:/Users/annakurova/Documents/Unreal Projects/TeamProjectGit/TeamProject/Content/ThirdPerson/Blueprints/BP_Floor.uasset",
 				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject/Content/ThirdPerson/Maps/EndlessLevel.umap",
 				"C:/Users/annakurova/Documents/Unreal Projects/TeamProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/annakurova/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
