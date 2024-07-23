@@ -1,0 +1,440 @@
+Round 1.
+
+[2024.07.22-11.36.02:761][595]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-11.36.02:761][595]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 57.0
+
+Round 2.
+[2024.07.22-11.45.20:045][938]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-11.45.20:045][938]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 52.0
+
+Round 3.
+[2024.07.22-11.47.51:275][566]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-11.47.51:275][566]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 38.0
+
+Round 4.
+[2024.07.22-11.50.23:997][321]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-11.50.23:997][321]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 35.0
+
+Round 5.
+[2024.07.22-11.52.36:834][ 39]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-11.52.36:834][ 39]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68.0
+
+Round 6.
+[2024.07.22-12.00.11:712][789]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.00.11:712][789]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 41.0
+
+Round 7.
+[2024.07.22-12.02.15:048][634]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.02.15:048][634]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 46.0
+
+Round 8.
+[2024.07.22-12.04.37:338][785]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.04.37:338][785]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75.0
+
+Round 9.
+[2024.07.22-12.05.39:410][611]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.05.39:410][611]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20.0
+
+Round 10.
+[2024.07.22-12.07.13:828][974]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.07.13:828][974]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 36.0
+
+Round 11.
+[2024.07.22-12.08.09:958][736]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.08.09:958][736]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 24.0
+
+Round 12.
+[2024.07.22-12.09.14:852][612]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.09.14:852][612]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 31.0
+
+Round 13.
+[2024.07.22-12.10.55:400][932]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.10.55:400][932]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58.0
+
+Round 14.
+[2024.07.22-12.12.03:444][855]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.12.03:444][855]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 32.0
+
+Round 15.
+[2024.07.22-12.13.51:910][256]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.13.51:910][256]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 56.0
+
+Round 16.
+[2024.07.22-12.15.27:202][461]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.15.27:202][461]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 53.0
+
+Round 17.
+[2024.07.22-12.17.25:832][941]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.17.25:832][941]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70.0
+
+Round 18.
+[2024.07.22-12.19.21:886][376]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.19.21:886][376]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68.0
+
+Round 19.
+[2024.07.22-12.20.40:462][382]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.20.40:462][382]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40.0
+
+Round 20.
+[2024.07.22-12.24.29:790][670]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.24.29:790][670]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 66.0
+
+Round 21.
+[2024.07.22-12.25.21:733][279]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.25.21:733][279]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 16.0
+
+Round 22.
+[2024.07.22-12.26.59:828][656]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.26.59:828][656]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55.0
+
+Round 23.
+[2024.07.22-12.27.21:753][798]PIE: Play in editor total start time 0,17 seconds.
+[2024.07.22-12.28.24:331][787]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.28.24:331][787]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 44.0
+
+
+Round 24.
+[2024.07.22-12.30.15:706][217]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.30.15:706][217]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58.0
+
+Round 25.
+[2024.07.22-12.32.14:185][748]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.32.14:185][748]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68.0
+
+Round 26.
+[2024.07.22-12.33.14:116][527]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.33.14:116][527]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 29.0
+
+Round 27.
+[2024.07.22-12.33.33:206][667]PIE: Play in editor total start time 0,239 seconds.
+[2024.07.22-12.35.07:320][972]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.35.07:320][972]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 66.0
+
+Round 28.
+[2024.07.22-12.35.25:941][ 72]PIE: Play in editor total start time 0,272 seconds.
+[2024.07.22-12.36.48:800][208]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.36.48:800][208]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 56.0
+
+Round 29.
+[2024.07.22-12.37.18:591][358]PIE: Server logged in
+[2024.07.22-12.37.18:591][358]PIE: Play in editor total start time 0,142 seconds.
+[2024.07.22-12.38.05:486][193]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.38.05:486][193]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33.0
+
+Round 30.
+[2024.07.22-12.38.29:904][361]PIE: Play in editor total start time 0,2 seconds.
+[2024.07.22-12.40.03:095][609]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.40.03:095][609]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 65.0
+
+Round 31.
+[2024.07.22-12.41.05:361][407]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.41.05:361][407]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 23.0
+
+Round 32.
+[2024.07.22-12.46.25:162][ 79]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.46.25:162][ 79]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 26.0
+
+Round 33.
+[2024.07.22-12.48.05:538][751]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.48.05:539][751]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 44.0
+
+Round 34.
+[2024.07.22-12.50.04:667][476]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.50.04:667][476]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68.0
+
+Round 35.
+[2024.07.22-12.51.50:520][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.51.50:520][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 61.0
+
+Round 36.
+[2024.07.22-12.54.01:347][837]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.54.01:347][837]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 76.0
+
+Round 37.
+[2024.07.22-12.59.08:081][234]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-12.59.08:081][234]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 17.0
+
+Round 38.
+[2024.07.22-13.01.14:297][424]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.01.14:297][424]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 72.0
+
+Round 39.
+[2024.07.22-13.02.14:829][364]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.02.14:829][364]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 29.0
+
+Round 40.
+[2024.07.22-13.03.58:865][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.03.58:865][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 57.0
+
+Round 41.
+[2024.07.22-13.05.45:394][549]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.05.45:394][549]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63.0
+
+Round 42.
+[2024.07.22-13.07.14:655][851]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.07.14:655][851]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 51.0
+
+Round 43.
+[2024.07.22-13.09.41:542][882]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.09.41:542][882]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 92.0
+
+Round 44.
+[2024.07.22-13.10.50:376][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.10.50:376][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 34.0
+
+Round 45.
+[2024.07.22-13.12.14:851][917]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.12.14:851][917]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 48.0
+
+Round 46.
+[2024.07.22-13.13.37:999][ 15]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.13.37:999][ 15]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 42.0
+
+Round 47.
+[2024.07.22-13.14.28:543][682]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.14.28:543][682]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 22.0
+
+Round 48.
+[2024.07.22-13.16.28:018][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.16.28:018][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70.0
+
+
+Round 49.
+[2024.07.22-13.17.58:212][386]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.17.58:213][386]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 47.0
+
+ROund 50.
+
+[2024.07.22-13.19.18:363][429]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.19.18:363][429]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43.0
+
+
+Round 51.
+[2024.07.22-13.36.30:734][ 40]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.36.30:734][ 40]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58.0
+
+
+Round 52.
+[2024.07.22-13.39.16:095][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.39.16:095][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98.0
+
+Round 53.
+[2024.07.22-13.40.55:477][208]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.40.55:477][208]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 42.0
+
+Round 54.
+[2024.07.22-13.42.39:997][769]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.42.39:997][769]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 59.0
+
+
+Round 55.
+[2024.07.22-13.43.41:332][650]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.43.41:332][650]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 28.0
+
+
+Round 56.
+[2024.07.22-13.44.49:014][613]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.44.49:014][613]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33.0
+
+
+Round 57.
+[2024.07.22-13.46.02:914][661]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.46.02:914][661]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 38.0
+
+
+Round 58.
+[2024.07.22-13.47.59:948][219]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.47.59:948][219]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 65.0
+
+Round 59.
+[2024.07.22-13.49.47:252][663]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.49.47:252][663]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60.0
+
+
+Round 60.
+[2024.07.22-13.51.27:487][993]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.51.27:487][993]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55.0
+
+
+Round 61.
+[2024.07.22-13.53.15:575][411]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.53.15:575][411]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60.0
+
+
+Round 62.
+[2024.07.22-13.54.33:410][436]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.54.33:411][436]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43.0
+
+
+Round 63.
+[2024.07.22-13.56.44:167][ 82]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.56.44:167][ 82]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75.0
+
+
+Round 64.
+[2024.07.22-13.57.21:174][499]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.57.21:174][499]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 9.0
+
+Round 65.
+[2024.07.22-13.58.48:217][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-13.58.48:217][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 45.0
+
+
+Round 66.
+[2024.07.22-14.00.01:596][586]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.00.01:596][586]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 37.0
+
+
+Round 67.
+[2024.07.22-14.01.57:553][ 65]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.01.57:553][ 65]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63.0
+
+Round 68.
+[2024.07.22-14.03.54:006][581]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.03.54:006][581]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68.0
+
+
+Round 69.
+[2024.07.22-14.06.15:812][458]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.06.15:812][458]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 81.0
+
+Round 70.
+[2024.07.22-14.07.26:304][732]PIE: Play in editor total start time 0,138 seconds.
+[2024.07.22-14.08.21:707][855]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.08.21:707][855]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40.0
+
+
+Round 71.
+[2024.07.22-14.10.13:529][378]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.10.13:529][378]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 61.0
+
+Round 72.
+[2024.07.22-14.11.14:950][231]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.11.14:950][231]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30.0
+
+
+Round 73.
+[2024.07.22-14.11.59:749][781]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.11.59:749][781]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 14.0
+
+Round 74.
+[2024.07.22-14.14.12:518][588]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.14.12:518][588]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80.0
+[2024.07.22-14.14.14:734][620]LogSlate: Updating window title bar state: overlay mode, drag
+
+Round 75.
+[2024.07.22-14.15.22:662][559]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.15.22:662][559]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 34.0
+
+
+Round 76
+[2024.07.22-14.16.49:140][702]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.16.49:140][702]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43.0
+
+
+Round 77.
+[2024.07.22-14.17.59:258][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.17.59:258][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33.0
+
+
+Round 78.
+[2024.07.22-14.21.21:577][776]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.21.21:577][776]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58.0
+
+
+Round 79.
+[2024.07.22-14.22.24:834][605]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.22.24:834][605]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 26.0
+
+
+Round 80.
+[2024.07.22-14.24.29:626][245]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.24.29:626][245]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63.0
+
+
+Round 81.
+[2024.07.22-14.26.08:297][528]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.26.08:297][528]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 53.0
+
+Round 82.
+[2024.07.22-14.27.55:831][936]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.27.55:831][936]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63.0
+
+
+Round 83.
+[2024.07.22-14.28.22:395][105]PIE: Play in editor total start time 0,144 seconds.
+[2024.07.22-14.30.03:498][594]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.30.03:498][594]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 72.0
+
+Round 84.
+[2024.07.22-14.31.56:414][ 21]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.31.56:414][ 21]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 44.0
+
+Round 85. 
+[2024.07.22-14.33.12:873][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.33.12:873][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 37.0
+
+Round 86.
+[2024.07.22-14.35.29:271][725]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.35.29:271][725]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 56.0
+
+Round 87.
+[2024.07.22-14.38.47:819][203]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.38.47:819][203]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 104.0
+
+Round 88.
+[2024.07.22-14.40.46:419][742]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.40.46:419][742]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 62.0
+
+Round 89.
+[2024.07.22-14.45.47:818][615]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.45.47:818][615]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 17.0
+
+Round 90.
+[2024.07.22-14.46.53:058][586]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.46.53:058][586]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 28.0
+
+
+Round 91.
+[2024.07.22-14.48.08:628][728]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.48.08:628][728]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 41.0
+
+
+Round 92.
+[2024.07.22-14.49.54:033][239]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.49.54:033][239]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 59.0
+
+
+Round 93.
+[2024.07.22-14.50.39:795][792]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.50.39:795][792]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 13.0
+
+
+Round 94.
+[2024.07.22-14.52.59:600][701]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-14.52.59:600][701]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 73.0
+
+
+Round 95.
+[2024.07.22-15.01.03:250][653]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-15.01.03:250][653]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 18.0
+
+Round 96.
+[2024.07.22-15.02.06:629][619]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-15.02.06:629][619]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 29.0
+
+Round 97.
+[2024.07.22-15.03.42:815][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-15.03.42:815][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 48.0
+
+Round 98.
+[2024.07.22-15.04.20:569][807]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-15.04.20:569][807]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 19.0
+
+Round 99.
+[2024.07.22-15.05.21:423][748]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-15.05.21:423][748]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33.0
+
+Round 100.
+[2024.07.22-15.07.20:731][506]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Score:
+[2024.07.22-15.07.20:731][506]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 77.0
